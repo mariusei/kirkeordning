@@ -1,5 +1,5 @@
 <h1 class="text-3xl">Ny kirkeordning</h1>
-<em>Et forslag til et kompromiss uten tapere</em>
+<em>Et kompromissforslag for lokal ledelse og nasjonal effektivitet</em>
 
 <h2 class="text-xl pt-4">
     Problemet</h2>
@@ -7,12 +7,12 @@
     Den norske kirke er ikke lenger en statskirke. Trossamfunnsloven legger opp til at kirken skal organiseres demokratisk og selvstendig, og med enheter lokalt som alle tilhører kirken nasjonalt.
 </p>
 <p class="pb-2">
-    Kirkemøtet, som er det øverste styrende organet i kirken, skal i 2022 ta et veivalg om hvordan kirken skal være organisert i fremtiden. Det er stor splid rundt forslagene som er fremmet, og hvor stor myndighet Kirkemøtet har til å gjøre dette.</p>
+    Kirkemøtet, som er det øverste styrende organet i kirken, skal i 2022 ta et veivalg om hvordan kirken skal være organisert i fremtiden. Det er stor splid rundt forslagene som er fremmet, og hvor stor grad av myndighet Kirkemøtet har til å gjøre dette.</p>
 <p class="pb-2">
     Trossamfunnsloven som ble vedtatt i 2020 av Stortinget setter rammene for hvordan Den norske kirke skal fungere.</p>
 <p class="pb-2">
-    Kirken er inndelt i to <em>rettssubjekter</em>: de lokale menighetene (soknene) og Den norske kirke. Et rettssubjekt kan stå for ansettelser, bli saksøkt, og har sin egen økonomi. Et rettssubjekt har sitt eget organisasjonsnummer.</p>
-<div class="flex flex-row pb-2">
+    Kirken er inndelt i to <em>rettssubjekter</em>: de lokale menighetene (soknene) og Den norske kirke. Et rettssubjekt kan bl.a. stå for ansettelser og bli saksøkt, og har sin egen økonomi. Et rettssubjekt har sitt eget organisasjonsnummer.</p>
+<div class="sm:flex md:flex-row pb-2">
     <div class="basis-1/2 ">
         <h3 class="text-lg">Soknet</h3>
         <ul class="list-disc px-8">
@@ -52,10 +52,10 @@
 <h2 class="text-xl pt-4">
     Hvorfor?</h2>
     <p class="pb-2">
-    Kirkemøtet har tidligere bestemt at det ikke ønsker at menighetene skal forholde seg til to arbeidsgiverlinjer lokalt. De har i dag to sett med ansatte: de som er ansatt lokalt på vegne av menigheten (administrasjon/drift, trosopplærere, diakoner, kantorer) og de som er ansatt nasjonalt (prester). 
+    Kirkemøtet har tidligere bestemt at menighetene ikke skal forholde seg til to arbeidsgiverlinjer lokalt. Der er det i dag to grupper av ansatte: de som er ansatt lokalt på vegne av menigheten (administrasjon/drift, trosopplærere, diakoner, kantorer) og de som er ansatt nasjonalt (prester). 
     </p>
     <p class="pb-2">
-        Med to sett med ansatte, har man også to sett med regler, goder, plikter og HR-systemer å forholde seg til. De ansatte får også to ulike ledere. Dette er en kilde til konflikt og usikkerhet. Mange menigheter kan lokalt ikke tilby hele stillinger.
+        Med to grupper ansatte, har man også to sett regler, goder, plikter og HR-systemer å forholde seg til. Hver gruppe har også sin egen leder. Dette er en kilde til konflikt og usikkerhet. Mange menigheter kan lokalt ikke tilby hele stillinger.
     </p>
     <p class="pb-2">
         Kirkemøtet blir i 2022 presentert for to konkrete modeller fra Kirkerådet for å samle arbeidsgiveransvaret, samt en løsning som i stor grad viderefører dagens ordning med to arbeidsgivere lokalt. 
@@ -72,7 +72,7 @@
         På denne siden finner du et kompromissforslag som søker å ivareta de viktigste sidene ved modell 1 og 2. Kompromissforslaget som presenteres her aksepterer ikke premisset om at noen annen løsning enn "Modell 3" er realistisk. 
     </p> 
     <p class="pb-2"> 
-        Forslaget som presenteres her innebærer ikke virksomhetsoverdragelse, som gir økt autonomi til lokalmenighetene, én arbeidsgiver for alle ansatte, tydeliggjør biskopenes rolle, tar hensyn til storby- og distriktsforskjeller, og som styrker muligheten for lokale bidrag til økonomien.
+        Forslaget som presenteres her innebærer ikke virksomhetsoverdragelse, gir økt autonomi til lokalmenighetene, én arbeidsgiver for alle ansatte, tydeliggjør biskopenes rolle, tar hensyn til storby- og distriktsforskjeller, og styrker muligheten for lokale bidrag til økonomien.
     </p>
     <p class="pb-2">
         Modellen som foreslås her ble utformet i forkant av Kirkerådets møte 24. juni 2022.
@@ -81,6 +81,7 @@
         En effektiv og god organisering gir kirken større mulighet til å ha sitt fokus på å være en positiv kraft i samfunnet - gjennom å dele historien om Gud, og være den i møte med mennesker.
     </p>
 
+<div class="border-r-4 pr-4 border-indigo-800">
 <h2 class="text-xl pt-4">
     Forslaget</h2>
     
@@ -103,17 +104,15 @@
         <li>Soknene står fritt til å velge form for samarbeid og representasjon lokalt.</li>
         <li>Soknene står fritt til å velge bemanning og daglig ledelse, samt finansieringsform, så lenge denne er i tråd med trossamfunnslovens krav til geistlig betjening.</li>
         <li>
-            Den norske kirke har plikt til å utsende personell, stå for teknisk, økonomisk og administrativ drift, og andre tjenester i tråd med avtalene den inngår med soknene eller samarbeidsorganene de velger for å representere seg lokalt.
+            Den norske kirke har plikt til å utsende personell, stå for teknisk, økonomisk og administrativ drift og tjenester i tråd med avtalene den inngår med soknene eller samarbeidsorganene de velger for å representere seg lokalt.
         <li>
         Biskopene, eller den de setter i sitt sted, skal føre tilsyn med kirkens tilsatte samt avtalene mellom Den norske kirke og soknene.
         </li>
         <li>Kirkemøtet fordeler og reviderer statstilskuddet til soknene gjennom bispedømmerådene.</li>
-        <li>For å synliggjøre kostnadene og effektiviseringen av kirkens drift, skal soknene belastes disse kostnadene.</li>
+        <li>For å synliggjøre kostnadene og effektiviseringen av kirkens drift, skal soknene belastes dette.</li>
         <li>Soknene står fritt til å beholde sine ansatte, men nytilsettinger kan kun skje i Den norske kirke.</li>
     </ul>
-
-
-
+</div>
 
 
 
@@ -124,11 +123,26 @@
         Om du likte dette, del gjerne videre! Du kan også ta kontakt med <a href="https://kirken.no/nb-NO/om-kirken/slik-styres-kirken/kirkemotet/om-kirkemotet/kirkemotets-medlemmer/" class="underline underline-offset-8">din representant i Kirkemøtet</a>. Kompromissforslaget presentert på denne siden her er <em>IKKE</em> Kirkerådets "kompromissforslag".
     </p>
 
+    <h2 class="text-xl pt-4">
+        Spørsmål og svar</h2>
+    
+        <p class="pb-2">
+            Hva med ... fellesrådene? Utstrekning, deltakelse i, og sammensetning av fellesråd er opp til menighetene å bestemme. 
+        </p>
+        <p class="pb-2">
+            Hva med ... kostnaden av å fordele statstilskuddet? I dag får allerede menighetene midler fra kommunene som de selv bruker på å finansiere driften. Det er ikke nytt at menighetene finansieres tilnærmet direkte. Det nye med forslaget er at statstilskuddet også skal komme menighetene til gode, og at de nå skal kunne tenke og prioritere helhetlig.
+        </p>
+        <p class="pb-2">
+            Hva med ... biskopen og bispedømmerådet? Biskopen får et enda tydeligere tilsynsmandat enn i dag. Biskopene skal også tilse at forholdene mellom soknene og Den norske kirke er ryddige og gode. Ved å organisere forholdene gjennom avtaler kan viktige lokale teologiske, diakonale og strategiske perspektiver ivaretas. Dersom bispedømmerådene delegeres ansvar fra Kirkemøtet til å inngå lokale avtaler på vegne av Den norske kirke med soknene, vil også bispedømmerådenes strategiske rolle styrkes.
+        </p>
+        <p class="pb-2">
+            Hva med ... avtalene? Avtalene mellom Den norske kirke og de enkelte soknene er ment å spesifisere og formalisere behovet til menighetene, samt forpliktelsen Den norske kirke har overfor soknet. Dette gjør at lokale avtaler ut fra lokale behov kan utformes. Kirkemøtet kan da vende sitt fokus mot større, overordnede problemstillinger, heller enn å detaljregulere alle sider ved kirkens drift som vi har sett en økende tendens til siden rettssubjektet Den norske kirke ble etablert.
+        </p>
 
 <h2 class="text-xl pt-4">
     Hvem</h2>
 
     <p class="pb-2">
-    Forslaget fremmes av Kirkemøtedelegat Marius Berge Eide som deltok på sitt første Kirkemøte i 2009 som representant fra Ungdommens kirkemøte. Han var folkevalgt representant for Oslo bispedømme på Kirkemøtet i periodene 2010-2011 og 2012-2015. I 2019 ble han valgt til å representere Døvekirkens medlemmer i perioden 2020-2023. Våren 2022 har han jobbet som rådgiver med HR-ansvar i Døvekirken som for tiden har et prøveprosjekt med enhetlig ledelse tilnærmet lik Kirkerådets foreslåtte modell 3 for kirkelig organisering. Som nestleder av Døves kirkeråd har han fått innse at det å ha to formelle arbeidsgivere og to ulike budsjetter svekker arbeidsmiljøet og øker kostnadene ved driften, til tross for at arbeidsgivermyndigheten er samlet, og til tross for hvor tett regelverkene og prosedyrene for de to arbeidsgiverlinjene er lokalt. Dette har motivert ham til å fremme en erfaringsbasert modell.
+    Forslaget fremmes av Kirkemøtedelegat Marius Berge Eide som deltok på sitt første Kirkemøte i 2009 som representant fra Ungdommens kirkemøte. Han var folkevalgt representant for Oslo bispedømme på Kirkemøtet i periodene 2010-2011 og 2012-2015. I 2019 ble han valgt til å representere døvemenighetene i perioden 2020-2023. Våren 2022 har han jobbet som rådgiver med HR-ansvar i Døvekirken som for tiden har et prøveprosjekt med enhetlig ledelse tilnærmet lik Kirkerådets foreslåtte modell 3 for kirkelig organisering. Som nestleder av Døves kirkeråd har han fått innse at det å ha to formelle arbeidsgivere og to ulike budsjetter svekker arbeidsmiljøet og øker kostnadene ved driften, til tross for at arbeidsgivermyndigheten er samlet, og til tross for hvor tett regelverkene og prosedyrene for de to arbeidsgiverlinjene er lokalt. Dette har motivert ham til å fremme en erfaringsbasert modell som ivaretar ønskene om å styrke menighetslivet lokalt, samtidig som så mye administrasjon som mulig effektiviseres og samles nasjonalt.
     </p>
 
