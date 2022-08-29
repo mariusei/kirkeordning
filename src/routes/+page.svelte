@@ -12,7 +12,7 @@
     Trossamfunnsloven som ble vedtatt i 2020 av Stortinget setter rammene for hvordan Den norske kirke skal fungere.</p>
 <p class="pb-2">
     Kirken er inndelt i to <em>rettssubjekter</em>: de lokale menighetene (soknene) og Den norske kirke. Et rettssubjekt kan bl.a. stå for ansettelser og bli saksøkt, og har sin egen økonomi. Et rettssubjekt har sitt eget organisasjonsnummer.</p>
-<div class="sm:flex md:flex-row pb-2">
+<div class="sm:flex sm:py-8 md:flex-row pb-2">
     <div class="basis-1/2 ">
         <h3 class="text-lg">Soknet</h3>
         <ul class="list-disc px-8">
