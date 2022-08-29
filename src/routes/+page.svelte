@@ -138,6 +138,9 @@
         <p class="pb-2">
             Hva med ... avtalene? Avtalene mellom Den norske kirke og de enkelte soknene er ment å spesifisere og formalisere behovet til menighetene, samt forpliktelsen Den norske kirke har overfor soknet. Dette gjør at lokale avtaler ut fra lokale behov kan utformes. Kirkemøtet kan da vende sitt fokus mot større, overordnede problemstillinger, heller enn å detaljregulere alle sider ved kirkens drift som vi har sett en økende tendens til siden rettssubjektet Den norske kirke ble etablert.
         </p>
+        <p class="pb-2">
+            Hva med ... lokal giverglede og lokal støtte? Kommunene er forpliktet til å finansiere kirkene gjennom trossamfunnsloven. Ved å samle alle tilskuddene til kirken i menighetene kommuniserer Den norske kirke at den tar lokalkirken på alvor og at den ønsker å legge til rette for lokale prioriteringer. Det blir enklere for lokale menigheter, samarbeidsområder og fellesråd å hente inn og bruke midler når menighetenes økonomi blir enhetlig.
+        </p>
 
 <h2 class="text-xl pt-4">
     Hvem</h2>
