@@ -69,7 +69,7 @@
             <li>To arbeidsgiverlinjer beholdes og alle er ansatt der de er i dag. Man finner løsninger som kan bøte på ulempene.</li>
         </ol>
     <p class="pb-2">
-        På denne siden finner du et kompromissforslag som søker å ivareta de viktigste sidene ved modell 1 og 2. Kompromissforslaget som presenteres her aksepterer ikke premisset om at noen annen løsning enn "Modell 3" er realistisk. 
+            På denne siden finner du et kompromissforslag som søker å ivareta de viktigste sidene ved modell 1 og 2. Kompromissforslaget som presenteres her aksepterer ikke premisset om at noen annen løsning enn "Modell 3" er urealistisk. 
     </p> 
     <p class="pb-2"> 
         Forslaget som presenteres her innebærer ikke virksomhetsoverdragelse, gir økt autonomi til lokalmenighetene, én arbeidsgiver for alle ansatte, tydeliggjør biskopenes rolle, tar hensyn til storby- og distriktsforskjeller, og styrker muligheten for lokale bidrag til økonomien.
@@ -92,8 +92,8 @@
         Kirkemøtet bes vedta to prinispper for den fremtidige kirkelige organiseringen:
     </p>
     <ol class="list-decimal px-8 pb-2">
-        <li>Den norske kirke skal være arbeidsgiver for alle kirkens ansatte.</li>
-        <li>Statsstøtten til Den norske kirke skal fordeles på soknene som så finansierer driften av Den norske kirke ut fra sine egne behov.</li>
+        <li>Den norske kirke er arbeidsgiver for alle kirkens ansatte.</li>
+        <li>Statsstøtten til Den norske kirke fordeles på soknene som så finansierer driften av Den norske kirke ut fra sine egne behov.</li>
     </ol>
 
 
@@ -108,9 +108,9 @@
         <li>
         Biskopene, eller den de setter i sitt sted, skal føre tilsyn med kirkens tilsatte samt avtalene mellom Den norske kirke og soknene.
         </li>
-        <li>Kirkemøtet fordeler og reviderer statstilskuddet til soknene gjennom bispedømmerådene.</li>
+        <li>Kirkemøtet fordeler og reviderer nruken av statstilskuddet til soknene gjennom bispedømmerådene.</li>
         <li>For å synliggjøre kostnadene og effektiviseringen av kirkens drift, skal soknene belastes dette.</li>
-        <li>Soknene står fritt til å beholde sine ansatte, men nytilsettinger kan kun skje i Den norske kirke.</li>
+        <li>I en overgangsperiode står soknene fritt til å beholde sine ansatte, men nytilsettinger kan kun skje i Den norske kirke. Virksomhetsoverdragelse er ikke påkrevd.</li>
     </ul>
 </div>
 
@@ -127,7 +127,7 @@
         Spørsmål og svar</h2>
     
         <p class="pb-2">
-            Hva med ... fellesrådene? Utstrekning, deltakelse i, og sammensetning av fellesråd er opp til menighetene å bestemme. 
+            Hva med ... fellesrådene? Utstrekning, deltakelse i, og sammensetning av fellesråd er opp til menighetene å bestemme. De velger selv samarbeidsform og representasjon lokalt. Da får kirken en organisasjon som er tilpasset forholdene lokalt, bygd og storby hånd i hånd. 
         </p>
         <p class="pb-2">
             Hva med ... kostnaden av å fordele statstilskuddet? I dag får allerede menighetene midler fra kommunene som de selv bruker på å finansiere driften. Det er ikke nytt at menighetene finansieres tilnærmet direkte. Det nye med forslaget er at statstilskuddet også skal komme menighetene til gode, og at de nå skal kunne tenke og prioritere helhetlig.
