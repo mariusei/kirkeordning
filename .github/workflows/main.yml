@@ -39,7 +39,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: node-app
-          path: .
+          path: ./build/
         
   deploy:
     permissions:
@@ -56,5 +56,5 @@ jobs:
     - name: Rsync to remote server
       env:
         SSH_KEY: ${{ secrets.SSH_KEY }}
-      run: rsync -avz -e "ssh -i $SSH_KEY" ./build ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_IP }}:www/kirkeordning/build/ 
+      run: rsync -avz -e "ssh -i $SSH_KEY" . ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_IP }}:www/kirkeordning/build/ 
       
