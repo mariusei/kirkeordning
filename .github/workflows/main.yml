@@ -53,10 +53,15 @@ jobs:
       with:
         name: node-app
 
-    - name: set SSH key
-      env:
-        SSH_KEY: ${{ secrets.SSH_KEY }}
-      run: printf '%s' "$SSH_KEY" >> $HOME/key
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_KEY }}
+        name: id_rsa # optional
+        known_hosts: ${{ secrets.KNOWN_HOSTS }}
+        config: ${{ secrets.CONFIG }} # ssh_config; optional
+        if_key_exists: fail # replace / ignore / fail; optional (defaults to fail)
+        
     - name: Rsync to remote server  
-      run: rsync -avz -e "ssh -i $HOME/key" . ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_IP }}:www/kirkeordning/build/ 
+      run: rsync -avz . ${{ secrets.SERVER_USER }}@${{ secrets.SERVER_IP }}:www/kirkeordning/build/ 
       
