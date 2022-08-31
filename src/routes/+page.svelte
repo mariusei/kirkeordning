@@ -1,5 +1,5 @@
-<h1 class="text-3xl">Ny kirkeordning</h1>
-<em>Et kompromissforslag for lokal ledelse og nasjonal effektivitet</em>
+<h1 class="text-3xl">Ny kirkelig organisering</h1>
+<em>Et kompromissforslag for lokal ledelse og effektiv nasjonal forankring</em>
 
 <h2 class="text-xl pt-4">
     Problemet</h2>
