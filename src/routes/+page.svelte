@@ -26,30 +26,32 @@
         <img src="/images/1x/logo.png" alt="logo: kors formet av et plusstegn og et komma" class="dark:bg-slate-200 dark:rounded-xl dark:mx-8"/>
     </div>
 </div>
-    <div class="sm:flex sm:py-8 md:flex-row pb-2">
-        <div class="basis-1/2 ">
-            <h3 class="text-lg">Soknet</h3>
+    <div class="sm:flex py-8 my-4 md:flex-row pb-2 leading-normal">
+        <div class="basis-1/2 border-r-8 border-amber-100 sm:rounded-xl sm:bg-gradient-to-b sm:from-amber-50 sm:to-amber-100 sm:text-slate-900 sm:pl-8 sm:pr-4 sm:py-8 sm:mr-2">
+            <img src="/images/1x/plus.png" alt="pluss" class="mx-auto"/>
+            <h3 class="text-3xl text-center py-6">Soknet</h3>
             <ul class="list-disc px-8">
-            <li>Soknet er den grunnleggende enheten i Den norske kirke og kan ikke løses fra den. § 11 (1)</li>
-            <li>Makt: Menighetsrådet opptrer på vegne av soknet. Rådet kan delegere ansvar til andre. § 11 (3)</li>
-            <li>Kommunen gir tilskudd til kirkens virksomhet lokalt, herunder tilskudd til bygging, vedlikehold og drift av kirkebygg. § 14 (2)</li>
-            <li>Soknet skal levere regnskap etter regnskapsloven. § 14 (6)</li>
-            <li>Soknet kan ikke slås konkurs. § 14 (7)</li>
-            <li>Kirkebyggene er soknets eiendom. § 15</li>
-            <li>Hvert sokn skal være betjent av prest. § 16 (1)</li>
+            <li class="pb-2">Soknet er den grunnleggende enheten i Den norske kirke og kan ikke løses fra den. § 11 (1)</li>
+            <li class="pb-2">Makt: Menighetsrådet opptrer på vegne av soknet. Rådet kan delegere ansvar til andre. § 11 (3)</li>
+            <li class="pb-2">Kommunen gir tilskudd til kirkens virksomhet lokalt, herunder tilskudd til bygging, vedlikehold og drift av kirkebygg. § 14 (2)</li>
+            <li class="pb-2">Soknet skal levere regnskap etter regnskapsloven. § 14 (6)</li>
+            <li class="pb-2">Soknet kan ikke slås konkurs. § 14 (7)</li>
+            <li class="pb-2">Kirkebyggene er soknets eiendom. § 15</li>
+            <li class="pb-2">Hvert sokn skal være betjent av prest. § 16 (1)</li>
         </ul>
     </div>
-    <div class="basis-1/2">
-        <h3 class="text-lg">Den norske kirke</h3>
+    <div class="basis-1/2 border-r-8 border-amber-100 sm:rounded-xl sm:bg-gradient-to-b sm:from-amber-50 sm:to-amber-100 sm:text-slate-900 sm:pl-8 sm:pr-4 sm:py-8 sm:ml-2">
+        <img src="/images/1x/pluskomma.png" alt="komma" class="mx-auto"/>
+        <h3 class="text-3xl text-center py-6">Den norske kirke</h3>
         <ul class="list-disc px-8 ">
-            <li>Den norske kirke forblir en landsdekkende og demokratisk evangelisk-luthersk folkekirke. § 10</li>
-            <li>Makt: Kirkemøtet opptrer på vegne av rettssubjektet Den norske kirke. § 11 (3)</li>
-            <li>Staten finansierer prestetjenesten kirkens virksomhet nasjonalt og regionalt. § 14 (1)</li>
-            <li>Den norske kirke skal levere regnskap etter regnskapsloven. §14 (6)</li>
-            <li>Kirkemøtet bestemmer oppgavefordelingen mellom sokn og evt. andre organer. § 11 (4)</li>
-            <li>Kirkemøtet fastsetter kirkens teologi. § 12 (1)</li>
-            <li>Kirkemøtet bestemmer hvordan kirken skal være organisert og inndelt, samt valgregler. § 12 (2)</li>
-            <li>Kirkemøtet kan ikke overstyre soknet/soknets organer i oppgaver som de har fått. § 12 (3)</li>
+            <li class="pb-2">Den norske kirke forblir en landsdekkende og demokratisk evangelisk-luthersk folkekirke. § 10</li>
+            <li class="pb-2">Makt: Kirkemøtet opptrer på vegne av rettssubjektet Den norske kirke. § 11 (3)</li>
+            <li class="pb-2">Staten finansierer prestetjenesten kirkens virksomhet nasjonalt og regionalt. § 14 (1)</li>
+            <li class="pb-2">Den norske kirke skal levere regnskap etter regnskapsloven. §14 (6)</li>
+            <li class="pb-2">Kirkemøtet bestemmer oppgavefordelingen mellom sokn og evt. andre organer. § 11 (4)</li>
+            <li class="pb-2">Kirkemøtet fastsetter kirkens teologi. § 12 (1)</li>
+            <li class="pb-2">Kirkemøtet bestemmer hvordan kirken skal være organisert og inndelt, samt valgregler. § 12 (2)</li>
+            <li class="pb-2">Kirkemøtet kan ikke overstyre soknet/soknets organer i oppgaver som de har fått. § 12 (3)</li>
         </ul>
     </div>
 </div>
@@ -95,7 +97,7 @@
         En effektiv og god organisering gir kirken større mulighet til å ha sitt fokus på å være en positiv kraft i samfunnet - gjennom å dele historien om Gud, og være den i møte med mennesker.
     </p>
 
-<div class="border-r-8 border-indigo-800 sm:rounded-xl sm:bg-gradient-to-b sm:from-indigo-900 sm:to-slate-600 sm:text-slate-100 sm:px-16 sm:py-8 sm:my-8">
+<div class="border-r-8 border-indigo-800 sm:rounded-xl sm:bg-gradient-to-b sm:from-indigo-900 sm:to-blue-900 sm:text-slate-100 sm:px-16 sm:py-8 sm:my-8">
     <h2 class="text-xl pb-4 font-bold">
     Forslaget</h2>
     
@@ -171,10 +173,22 @@
              Kommunene er forpliktet til å finansiere kirkene gjennom trossamfunnsloven. Ved å samle alle tilskuddene til kirken i menighetene kommuniserer Den norske kirke at den tar lokalkirken på alvor og at den ønsker å legge til rette for lokale prioriteringer. Det blir enklere for lokale menigheter, samarbeidsområder og fellesråd å hente inn og bruke midler når menighetenes økonomi blir enhetlig.
         </p>
 
-<h2 class="text-xl pt-4">
+<div class="border-r-8 border-amber-100 sm:rounded-xl sm:bg-gradient-to-b sm:from-amber-50 sm:to-amber-100 sm:text-slate-900 sm:px-16 sm:py-8 sm:my-8">
+<h2 class="text-xl py-4">
     Hvem</h2>
 
-    <p class="pb-2 light:text-slate-800">
-    Forslaget fremmes av Kirkemøtedelegat Marius Berge Eide som deltok på sitt første Kirkemøte i 2009 som representant fra Ungdommens kirkemøte. Han var folkevalgt representant for Oslo bispedømme på Kirkemøtet i periodene 2010-2011 og 2012-2015. I 2019 ble han valgt til å representere døvemenighetene i perioden 2020-2023. Våren 2022 har han jobbet som rådgiver med HR-ansvar i Døvekirken som for tiden har et prøveprosjekt med enhetlig ledelse tilnærmet lik Kirkerådets foreslåtte modell 3 for kirkelig organisering. Som nestleder av Døves kirkeråd har han fått innse at det å ha to formelle arbeidsgivere og to ulike budsjetter svekker arbeidsmiljøet og øker kostnadene ved driften, til tross for at arbeidsgivermyndigheten er samlet, og til tross for hvor tett regelverkene og prosedyrene for de to arbeidsgiverlinjene er lokalt. Dette har motivert ham til å fremme en erfaringsbasert modell som ivaretar ønskene om å styrke menighetslivet lokalt, samtidig som så mye administrasjon som mulig effektiviseres og samles nasjonalt.
+    <p class="pb-2">
+    Forslaget fremmes av Kirkemøtedelegat Marius Berge Eide. Han deltok på sitt første Kirkemøte i 2009 som representant fra Ungdommens kirkemøte. Han var folkevalgt representant for Oslo bispedømme til Kirkemøtet i periodene 2010-2011 og 2012-2015. I 2019 ble han valgt til å representere døvemenighetene for perioden 2020-2023. 
     </p>
+    <p class="pb-2">
+    Våren 2022 har han jobbet som rådgiver med HR-ansvar i Døvekirken som for tiden har et prøveprosjekt med enhetlig ledelse tilnærmet lik Kirkerådets foreslåtte modell 3 for kirkelig organisering. 
+    </p>
+    <p class="pb-2">
+    Som nestleder av Døves kirkeråd har han fått innse at det å ha to formelle arbeidsgivere og to ulike budsjetter svekker arbeidsmiljøet og øker kostnadene ved driften, til tross for at arbeidsgivermyndigheten er samlet, og til tross for hvor tett regelverkene og prosedyrene for de to arbeidsgiverlinjene er lokalt.
+    </p>
+    <p class="pb-2">
+    Dette har motivert ham til å fremme en erfaringsbasert modell som ivaretar ønskene om å styrke menighetslivet lokalt, samtidig som så mye administrasjon som mulig effektiviseres og samles nasjonalt.
+    </p>
+    
+    </div>
 
