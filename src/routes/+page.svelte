@@ -1,3 +1,10 @@
+<svelte:head>
+    <title>Kirkelig organisering - kompromissforslag</title>
+    <meta name="description" content="Et kompromissforslag til den fremtidige kirkelige organiseringen som ivaretar behovet for sterk lokal fleksibilitet og handlekraft med nasjonal sammenheng og effektiv administrasjon. Kirkemøtet 2022 skal ta et veivalg der premissene for kirkens fremtidige organisering vedtas.">
+    <meta name="keywords" content="kirken, Den norske kirke, kirkelig organisering, kirkeordning, Hegstad, Sandaker-Nielsen, Åpen folkekirke, Bønnelista, Døvekirken">
+    <meta name="author" content="Marius Berge Eide">
+</svelte:head>
+
 <h1 class="text-3xl">Ny kirkelig organisering</h1>
 <em>Et kompromissforslag for lokal ledelse og effektiv nasjonal forankring</em>
 
