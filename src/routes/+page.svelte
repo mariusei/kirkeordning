@@ -170,7 +170,9 @@
             Hva med ... lokal giverglede og lokal støtte?
         </p>
         <p class="pb-2 sm:px-16 italic">
-             Kommunene er forpliktet til å finansiere kirkene gjennom trossamfunnsloven. Ved å samle alle tilskuddene til kirken i menighetene kommuniserer Den norske kirke at den tar lokalkirken på alvor og at den ønsker å legge til rette for lokale prioriteringer. Det blir enklere for lokale menigheter, samarbeidsområder og fellesråd å hente inn og bruke midler når menighetenes økonomi blir enhetlig.
+             Kommunene er forpliktet til å finansiere kirkene gjennom trossamfunnsloven. 
+             Ved å samle alle tilskuddene til kirken i menighetene kommuniserer Den norske kirke at den tar lokalkirken på alvor og at den ønsker å legge til rette for lokale prioriteringer. 
+             Det blir enklere å hente inn og bruke midler for lokale menigheter, samarbeidsområder og fellesråd om menighetenes økonomi blir enhetlig.
         </p>
 
 <div class="border-r-8 border-amber-100 sm:rounded-xl sm:bg-gradient-to-b sm:from-amber-50 sm:to-amber-100 sm:text-slate-900 sm:px-16 sm:py-8 sm:my-8">
