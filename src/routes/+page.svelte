@@ -23,7 +23,7 @@
             Kirken er inndelt i to <em>rettssubjekter</em>: de lokale menighetene (soknene) og Den norske kirke. Et rettssubjekt kan bl.a. stå for ansettelser og bli saksøkt, og har sin egen økonomi. Et rettssubjekt har sitt eget organisasjonsnummer.</p>
     </div>
     <div class="basis-1/5">
-        <img src="/images/1x/logo.png" alt="logo"/>
+        <img src="/images/1x/logo.png" alt="logo: kors formet av et plusstegn og et komma" class="dark:bg-slate-200 dark:rounded-xl dark:mx-8"/>
     </div>
 </div>
     <div class="sm:flex sm:py-8 md:flex-row pb-2">
@@ -95,8 +95,8 @@
         En effektiv og god organisering gir kirken større mulighet til å ha sitt fokus på å være en positiv kraft i samfunnet - gjennom å dele historien om Gud, og være den i møte med mennesker.
     </p>
 
-<div class="border-r-4 border-indigo-900 sm:rounded-md sm:bg-gradient-to-b sm:from-indigo-900 sm:to-slate-600 sm:text-slate-100 sm:px-16 sm:py-8 sm:my-8">
-<h2 class="text-xl pb-4 font-bold">
+<div class="border-r-8 border-indigo-800 sm:rounded-xl sm:bg-gradient-to-b sm:from-indigo-900 sm:to-slate-600 sm:text-slate-100 sm:px-16 sm:py-8 sm:my-8">
+    <h2 class="text-xl pb-4 font-bold">
     Forslaget</h2>
     
     <p class="pb-2">
@@ -174,7 +174,7 @@
 <h2 class="text-xl pt-4">
     Hvem</h2>
 
-    <p class="pb-2 text-slate-800">
+    <p class="pb-2 light:text-slate-800">
     Forslaget fremmes av Kirkemøtedelegat Marius Berge Eide som deltok på sitt første Kirkemøte i 2009 som representant fra Ungdommens kirkemøte. Han var folkevalgt representant for Oslo bispedømme på Kirkemøtet i periodene 2010-2011 og 2012-2015. I 2019 ble han valgt til å representere døvemenighetene i perioden 2020-2023. Våren 2022 har han jobbet som rådgiver med HR-ansvar i Døvekirken som for tiden har et prøveprosjekt med enhetlig ledelse tilnærmet lik Kirkerådets foreslåtte modell 3 for kirkelig organisering. Som nestleder av Døves kirkeråd har han fått innse at det å ha to formelle arbeidsgivere og to ulike budsjetter svekker arbeidsmiljøet og øker kostnadene ved driften, til tross for at arbeidsgivermyndigheten er samlet, og til tross for hvor tett regelverkene og prosedyrene for de to arbeidsgiverlinjene er lokalt. Dette har motivert ham til å fremme en erfaringsbasert modell som ivaretar ønskene om å styrke menighetslivet lokalt, samtidig som så mye administrasjon som mulig effektiviseres og samles nasjonalt.
     </p>
 
