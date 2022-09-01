@@ -3,19 +3,26 @@
 
 <h2 class="text-xl pt-4">
     Problemet</h2>
-<p class="pb-2">
-    Den norske kirke er ikke lenger en statskirke. Trossamfunnsloven legger opp til at kirken skal organiseres demokratisk og selvstendig, og med enheter lokalt som alle tilhører kirken nasjonalt.
-</p>
-<p class="pb-2">
-    Kirkemøtet, som er det øverste styrende organet i kirken, skal i 2022 ta et veivalg om hvordan kirken skal være organisert i fremtiden. Det er stor splid rundt forslagene som er fremmet, og hvor stor grad av myndighet Kirkemøtet har til å gjøre dette.</p>
-<p class="pb-2">
-    Trossamfunnsloven som ble vedtatt i 2020 av Stortinget setter rammene for hvordan Den norske kirke skal fungere.</p>
-<p class="pb-2">
-    Kirken er inndelt i to <em>rettssubjekter</em>: de lokale menighetene (soknene) og Den norske kirke. Et rettssubjekt kan bl.a. stå for ansettelser og bli saksøkt, og har sin egen økonomi. Et rettssubjekt har sitt eget organisasjonsnummer.</p>
-<div class="sm:flex sm:py-8 md:flex-row pb-2">
-    <div class="basis-1/2 ">
-        <h3 class="text-lg">Soknet</h3>
-        <ul class="list-disc px-8">
+<div class="flex items-center">
+    <div class="basis-4/5">
+        <p class="pb-2">
+            Den norske kirke er ikke lenger en statskirke. Trossamfunnsloven legger opp til at kirken skal organiseres demokratisk og selvstendig, og med enheter lokalt som alle tilhører kirken nasjonalt.
+        </p>
+        <p class="pb-2">
+            Kirkemøtet, som er det øverste styrende organet i kirken, skal i 2022 ta et veivalg om hvordan kirken skal være organisert i fremtiden. Det er stor splid rundt forslagene som er fremmet, og hvor stor grad av myndighet Kirkemøtet har til å gjøre dette.</p>
+        <p class="pb-2">
+            Trossamfunnsloven som ble vedtatt i 2020 av Stortinget setter rammene for hvordan Den norske kirke skal fungere.</p>
+        <p class="pb-2">
+            Kirken er inndelt i to <em>rettssubjekter</em>: de lokale menighetene (soknene) og Den norske kirke. Et rettssubjekt kan bl.a. stå for ansettelser og bli saksøkt, og har sin egen økonomi. Et rettssubjekt har sitt eget organisasjonsnummer.</p>
+    </div>
+    <div class="basis-1/5">
+        <img src="/images/1x/logo.png" alt="logo"/>
+    </div>
+</div>
+    <div class="sm:flex sm:py-8 md:flex-row pb-2">
+        <div class="basis-1/2 ">
+            <h3 class="text-lg">Soknet</h3>
+            <ul class="list-disc px-8">
             <li>Soknet er den grunnleggende enheten i Den norske kirke og kan ikke løses fra den. § 11 (1)</li>
             <li>Makt: Menighetsrådet opptrer på vegne av soknet. Rådet kan delegere ansvar til andre. § 11 (3)</li>
             <li>Kommunen gir tilskudd til kirkens virksomhet lokalt, herunder tilskudd til bygging, vedlikehold og drift av kirkebygg. § 14 (2)</li>
@@ -81,19 +88,19 @@
         En effektiv og god organisering gir kirken større mulighet til å ha sitt fokus på å være en positiv kraft i samfunnet - gjennom å dele historien om Gud, og være den i møte med mennesker.
     </p>
 
-<div class="border-r-4 pr-4 border-indigo-800">
-<h2 class="text-xl pt-4">
+<div class="border-r-4 border-indigo-900 sm:rounded-md sm:bg-gradient-to-b sm:from-indigo-900 sm:to-slate-600 sm:text-slate-100 sm:px-16 sm:py-8 sm:my-8">
+<h2 class="text-xl pb-4 font-bold">
     Forslaget</h2>
     
     <p class="pb-2">
-        Styrkene i modell 1 og 2 forsøkes å bevares, og bekymringene forsøkes å besvares.
+        Styrkene i modell 1 og 2 forsøkes å bevares, og bekymringene forsøkes å besvares. Organiseringen av Den norske kirke skal ha en tydelig nasjonal forankring og en effektiv lokal organisering.
     </p>
-    <p class="pb-2">
+    <p class="pb-2 font-bold">
         Kirkemøtet bes vedta to prinispper for den fremtidige kirkelige organiseringen:
     </p>
     <ol class="list-decimal px-8 pb-2">
-        <li>Den norske kirke er arbeidsgiver for alle kirkens ansatte.</li>
-        <li>Statsstøtten til Den norske kirke fordeles på soknene som så finansierer driften av Den norske kirke ut fra sine egne behov.</li>
+        <li class="pb-1">Den norske kirke er arbeidsgiver for alle kirkens ansatte.</li>
+        <li class="pb-1">Statsstøtten til Den norske kirke fordeles på soknene som så finansierer driften av Den norske kirke ut fra sine egne behov.</li>
     </ol>
 
 
@@ -101,16 +108,16 @@
         Med følgende presiseringer:
     </p>
     <ul class="list-disc px-8 ">
-        <li>Soknene står fritt til å velge form for samarbeid og representasjon lokalt.</li>
-        <li>Soknene står fritt til å velge bemanning og daglig ledelse, samt finansieringsform, så lenge denne er i tråd med trossamfunnslovens krav til geistlig betjening.</li>
-        <li>
+        <li class="pb-1">Soknene står fritt til å velge form for samarbeid og representasjon lokalt.</li>
+        <li class="pb-1">Soknene står fritt til å velge bemanning og daglig ledelse, samt finansieringsform, så lenge denne er i tråd med trossamfunnslovens krav til geistlig betjening.</li>
+        <li class="pb-1">
             Den norske kirke har plikt til å utsende personell, stå for teknisk, økonomisk og administrativ drift og tjenester i tråd med avtalene den inngår med soknene eller samarbeidsorganene de velger for å representere seg lokalt.
-        <li>
+        <li class="pb-1">
         Biskopene, eller den de setter i sitt sted, skal føre tilsyn med kirkens tilsatte samt avtalene mellom Den norske kirke og soknene.
         </li>
-        <li>Kirkemøtet fordeler og reviderer nruken av statstilskuddet til soknene gjennom bispedømmerådene.</li>
-        <li>For å synliggjøre kostnadene og effektiviseringen av kirkens drift, skal soknene belastes dette.</li>
-        <li>I en overgangsperiode står soknene fritt til å beholde sine ansatte, men nytilsettinger kan kun skje i Den norske kirke. Virksomhetsoverdragelse er ikke påkrevd.</li>
+        <li class="pb-1">Kirkemøtet fordeler og reviderer bruken av statstilskuddet til soknene gjennom bispedømmerådene.</li>
+        <li class="pb-1">For å synliggjøre kostnadene og effektiviseringen av kirkens drift, skal soknene belastes dette.</li>
+        <li class="pb-1">I en overgangsperiode står soknene fritt til å beholde sine ansatte, men nytilsettinger kan kun skje i Den norske kirke. Virksomhetsoverdragelse er ikke påkrevd.</li>
     </ul>
 </div>
 
@@ -123,23 +130,38 @@
         Om du likte dette, del gjerne videre! Du kan også ta kontakt med <a href="https://kirken.no/nb-NO/om-kirken/slik-styres-kirken/kirkemotet/om-kirkemotet/kirkemotets-medlemmer/" class="underline underline-offset-8">din representant i Kirkemøtet</a>. Kompromissforslaget presentert på denne siden her er <em>IKKE</em> Kirkerådets "kompromissforslag".
     </p>
 
-    <h2 class="text-xl pt-4">
+    <h2 class="text-xl py-4">
         Spørsmål og svar</h2>
     
-        <p class="pb-2">
-            Hva med ... fellesrådene? Utstrekning, deltakelse i, og sammensetning av fellesråd er opp til menighetene å bestemme. De velger selv samarbeidsform og representasjon lokalt. Da får kirken en organisasjon som er tilpasset forholdene lokalt, bygd og storby hånd i hånd. 
+        <p class="font-bold">
+            Hva med ... fellesrådene? 
         </p>
-        <p class="pb-2">
-            Hva med ... kostnaden av å fordele statstilskuddet? I dag får allerede menighetene midler fra kommunene som de selv bruker på å finansiere driften. Det er ikke nytt at menighetene finansieres tilnærmet direkte. Det nye med forslaget er at statstilskuddet også skal komme menighetene til gode, og at de nå skal kunne tenke og prioritere helhetlig.
+        <p class="pb-2 sm:px-16 italic">
+            Utstrekning, deltakelse i, og sammensetning av fellesråd er opp til menighetene å bestemme. De velger selv samarbeidsform og representasjon lokalt. Da får kirken en organisasjon som er tilpasset forholdene lokalt, bygd og storby hånd i hånd. 
         </p>
-        <p class="pb-2">
-            Hva med ... biskopen og bispedømmerådet? Biskopen får et enda tydeligere tilsynsmandat enn i dag. Biskopene skal også tilse at forholdene mellom soknene og Den norske kirke er ryddige og gode. Ved å organisere forholdene gjennom avtaler kan viktige lokale teologiske, diakonale og strategiske perspektiver ivaretas. Dersom bispedømmerådene delegeres ansvar fra Kirkemøtet til å inngå lokale avtaler på vegne av Den norske kirke med soknene, vil også bispedømmerådenes strategiske rolle styrkes.
+        <p class="font-bold">
+            Hva med ... kostnaden av å fordele statstilskuddet? 
         </p>
-        <p class="pb-2">
-            Hva med ... avtalene? Avtalene mellom Den norske kirke og de enkelte soknene er ment å spesifisere og formalisere behovet til menighetene, samt forpliktelsen Den norske kirke har overfor soknet. Dette gjør at lokale avtaler ut fra lokale behov kan utformes. Kirkemøtet kan da vende sitt fokus mot større, overordnede problemstillinger, heller enn å detaljregulere alle sider ved kirkens drift som vi har sett en økende tendens til siden rettssubjektet Den norske kirke ble etablert.
+        <p class="pb-2 sm:px-16 italic">
+            I dag får allerede menighetene midler fra kommunene som de selv bruker på å finansiere driften. Det er ikke nytt at menighetene finansieres tilnærmet direkte. Det nye med forslaget er at statstilskuddet også skal komme menighetene til gode, og at de nå skal kunne tenke og prioritere helhetlig.
         </p>
-        <p class="pb-2">
-            Hva med ... lokal giverglede og lokal støtte? Kommunene er forpliktet til å finansiere kirkene gjennom trossamfunnsloven. Ved å samle alle tilskuddene til kirken i menighetene kommuniserer Den norske kirke at den tar lokalkirken på alvor og at den ønsker å legge til rette for lokale prioriteringer. Det blir enklere for lokale menigheter, samarbeidsområder og fellesråd å hente inn og bruke midler når menighetenes økonomi blir enhetlig.
+        <p class="font-bold">
+            Hva med ... biskopen og bispedømmerådet?
+        </p>
+        <p class="pb-2 sm:px-16 italic">
+             Biskopen får et enda tydeligere tilsynsmandat enn i dag. Biskopene skal også tilse at forholdene mellom soknene og Den norske kirke er ryddige og gode. Ved å organisere forholdene gjennom avtaler kan viktige lokale teologiske, diakonale og strategiske perspektiver ivaretas. Dersom bispedømmerådene delegeres ansvar fra Kirkemøtet til å inngå lokale avtaler på vegne av Den norske kirke med soknene, vil også bispedømmerådenes strategiske rolle styrkes.
+        </p>
+        <p class="font-bold">
+            Hva menes med ... avtalene? 
+        </p>
+        <p class="pb-2 sm:px-16 italic">
+            Avtalene mellom Den norske kirke og de enkelte soknene er ment å spesifisere og formalisere behovet til menighetene, samt forpliktelsen Den norske kirke har overfor soknet. Dette gjør at lokale avtaler ut fra lokale behov kan utformes. Kirkemøtet kan da vende sitt fokus mot større, overordnede problemstillinger, heller enn å detaljregulere alle sider ved kirkens drift som vi har sett en økende tendens til siden rettssubjektet Den norske kirke ble etablert.
+        </p>
+        <p class="font-bold">
+            Hva med ... lokal giverglede og lokal støtte?
+        </p>
+        <p class="pb-2 sm:px-16 italic">
+             Kommunene er forpliktet til å finansiere kirkene gjennom trossamfunnsloven. Ved å samle alle tilskuddene til kirken i menighetene kommuniserer Den norske kirke at den tar lokalkirken på alvor og at den ønsker å legge til rette for lokale prioriteringer. Det blir enklere for lokale menigheter, samarbeidsområder og fellesråd å hente inn og bruke midler når menighetenes økonomi blir enhetlig.
         </p>
 
 <h2 class="text-xl pt-4">
