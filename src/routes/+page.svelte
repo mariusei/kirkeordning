@@ -100,7 +100,7 @@
     Forslaget</h2>
     
     <p class="pb-2">
-        Styrkene i modell 1 og 2 forsøkes å bevares, og bekymringene forsøkes å besvares. Organiseringen av Den norske kirke skal ha en tydelig nasjonal forankring og en effektiv lokal organisering.
+        Styrkene ved modell 1 og 2 forsøkes å bevares, og bekymringene forsøkes å besvares. Organiseringen av Den norske kirke skal ha en tydelig nasjonal forankring og en effektiv lokal organisering.
     </p>
     <p class="pb-2 font-bold">
         Kirkemøtet bes vedta to prinispper for den fremtidige kirkelige organiseringen:
@@ -174,7 +174,7 @@
 <h2 class="text-xl pt-4">
     Hvem</h2>
 
-    <p class="pb-2">
+    <p class="pb-2 text-slate-800">
     Forslaget fremmes av Kirkemøtedelegat Marius Berge Eide som deltok på sitt første Kirkemøte i 2009 som representant fra Ungdommens kirkemøte. Han var folkevalgt representant for Oslo bispedømme på Kirkemøtet i periodene 2010-2011 og 2012-2015. I 2019 ble han valgt til å representere døvemenighetene i perioden 2020-2023. Våren 2022 har han jobbet som rådgiver med HR-ansvar i Døvekirken som for tiden har et prøveprosjekt med enhetlig ledelse tilnærmet lik Kirkerådets foreslåtte modell 3 for kirkelig organisering. Som nestleder av Døves kirkeråd har han fått innse at det å ha to formelle arbeidsgivere og to ulike budsjetter svekker arbeidsmiljøet og øker kostnadene ved driften, til tross for at arbeidsgivermyndigheten er samlet, og til tross for hvor tett regelverkene og prosedyrene for de to arbeidsgiverlinjene er lokalt. Dette har motivert ham til å fremme en erfaringsbasert modell som ivaretar ønskene om å styrke menighetslivet lokalt, samtidig som så mye administrasjon som mulig effektiviseres og samles nasjonalt.
     </p>
 
